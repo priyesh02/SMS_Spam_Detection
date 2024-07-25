@@ -1,6 +1,6 @@
 SMS Spam Classification
 
-This project involves classifying SMS messages as either "spam" or "ham" (not spam) using a Naive Bayes classifier.
+This project involves classifying SMS messages as either "spam" or "Not Spam" using a Naive Bayes classifier.
 
 The following steps outline the process from data import to model evaluation.
 
